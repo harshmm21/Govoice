@@ -1,0 +1,1 @@
+export { UiIconItalicsFilled } from "./UiIconItalicsFilled";

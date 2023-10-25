@@ -1,0 +1,21 @@
+.divider {
+  width: 624px;
+}
+
+.divider.theme-20-off {
+  background-color: var(--neutral-03);
+}
+
+.divider.one-px {
+  border-radius: 1px;
+  height: 1px;
+}
+
+.divider.two-px {
+  border-radius: 2px;
+  height: 2px;
+}
+
+.divider.theme-20-on {
+  background-color: var(--neutral-06);
+}

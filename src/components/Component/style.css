@@ -1,0 +1,45 @@
+.component {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+}
+
+.component .instance-node {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.component .text-wrapper {
+  font-family: var(--caption-2-bold-font-family);
+  font-size: var(--caption-2-bold-font-size);
+  font-style: var(--caption-2-bold-font-style);
+  font-weight: var(--caption-2-bold-font-weight);
+  letter-spacing: var(--caption-2-bold-letter-spacing);
+  line-height: var(--caption-2-bold-line-height);
+  margin-top: -2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component.up-down-on {
+  background-color: #ffd7d2;
+  border-radius: 8px;
+}
+
+.component.up-down-off {
+  background-color: #eafae4;
+  border-radius: 4px;
+}
+
+.component.up-down-on .text-wrapper {
+  color: var(--primary-03);
+}
+
+.component.up-down-off .text-wrapper {
+  color: var(--primary-02);
+}

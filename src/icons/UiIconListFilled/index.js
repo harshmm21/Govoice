@@ -1,0 +1,1 @@
+export { UiIconListFilled } from "./UiIconListFilled";

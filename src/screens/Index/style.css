@@ -1,0 +1,421 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div-5 {
+  background-color: #ffffff;
+  height: 1335px;
+  overflow: hidden;
+  position: relative;
+  width: 439px;
+}
+
+.index .frame-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 40px;
+  position: absolute;
+  top: 115px;
+  width: 359px;
+}
+
+.index .div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.5;
+  position: relative;
+}
+
+.index .text-wrapper-8 {
+  color: var(--neutral-06);
+  font-family: var(--h4-font-family);
+  font-size: var(--h4-font-size);
+  font-style: var(--h4-font-style);
+  font-weight: var(--h4-font-weight);
+  letter-spacing: var(--h4-letter-spacing);
+  line-height: var(--h4-line-height);
+  margin-top: -1.09px;
+  position: relative;
+  width: 343px;
+}
+
+.index .frame-8 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  height: 1207px;
+  justify-content: center;
+  left: -50px;
+  position: absolute;
+  top: 165px;
+  width: 539px;
+}
+
+.index .frame-9 {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 539px;
+}
+
+.index .overlap-wrapper {
+  height: 512px;
+  position: relative;
+  width: 453px;
+}
+
+.index .overlap-2 {
+  height: 512px;
+  position: relative;
+  width: 384px;
+}
+
+.index .overview-mobile-instance {
+  left: 4px !important;
+  opacity: 0.5 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.index .promote-post {
+  -webkit-backdrop-filter: blur(32px) brightness(100%);
+  align-items: flex-end;
+  backdrop-filter: blur(32px) brightness(100%);
+  background-color: #fae8e8;
+  border-radius: 16px;
+  box-shadow: 0px 32px 48px -8px #0000001a, 0px 0px 14px -4px #0000000d;
+  display: flex;
+  flex-direction: column;
+  height: 361px;
+  justify-content: space-between;
+  left: 0;
+  overflow: hidden;
+  padding: 24px;
+  position: absolute;
+  top: 135px;
+  width: 374px;
+}
+
+.index .frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.index .div-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.index .title {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.index .tag-2 {
+  background-color: var(--secondary-04);
+  border-radius: 4px;
+  height: 32px;
+  position: relative;
+  width: 16px;
+}
+
+.index .new-post {
+  color: var(--neutral-07);
+  font-family: var(--title-1-semibold-font-family);
+  font-size: var(--title-1-semibold-font-size);
+  font-style: var(--title-1-semibold-font-style);
+  font-weight: var(--title-1-semibold-font-weight);
+  letter-spacing: var(--title-1-semibold-letter-spacing);
+  line-height: var(--title-1-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .UI-icon-close-light-wrapper {
+  align-items: center;
+  background-color: var(--neutral-03);
+  border-radius: 36px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.index .UI-icon-close-light {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.index .social-account {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.index .social-network {
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
+
+.index .avatar-2 {
+  height: 48px !important;
+  width: unset !important;
+}
+
+.index .avatar-3 {
+  height: 95px !important;
+  left: -23px !important;
+  top: -14px !important;
+  width: 94px !important;
+}
+
+.index .frame-11 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .design-component-instance-node-2 {
+  align-self: stretch !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.index .frame-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.index .frame-13 {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 16px;
+  position: relative;
+}
+
+.index .button-2 {
+  flex: 0 0 auto !important;
+}
+
+.index .button-3 {
+  color: #fcfcfc !important;
+}
+
+.index .ui-icon-arrow-forward-light-6 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.index .title-of-the-post {
+  background-color: transparent;
+  border: 0;
+  color: #000000de;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 700;
+  height: 32px;
+  left: 82px;
+  letter-spacing: -0.36px;
+  line-height: 32px;
+  padding: 0;
+  position: absolute;
+  top: 219px;
+  width: 245px;
+}
+
+.index .what-you-would-like {
+  background-color: transparent;
+  border: 0;
+  color: #060505bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+  height: 32px;
+  left: 58px;
+  letter-spacing: -0.4px;
+  line-height: 32px;
+  padding: 0;
+  position: absolute;
+  top: 293px;
+  width: 326px;
+}
+
+.index .vuesax-linear-folder-add {
+  left: 84px !important;
+  top: 436px !important;
+}
+
+.index .rectangle {
+  height: 123px;
+  left: 48px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 267px;
+  width: 304px;
+}
+
+.index .rectangle-2 {
+  height: 35px;
+  left: 79px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 220px;
+  width: 252px;
+}
+
+.index .frame-14 {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 453.09px;
+}
+
+.index .frame-15 {
+  height: 652.2px;
+  overflow: hidden;
+  position: relative;
+  width: 452.05px;
+}
+
+.index .overlap-3 {
+  height: 121px;
+  left: 0;
+  position: absolute;
+  top: 531px;
+  width: 452px;
+}
+
+.index .nav-bar-by-anas {
+  height: 121px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 452px;
+}
+
+.index .overlap-group-2 {
+  background-color: var(--white);
+  border-radius: 21.84px;
+  box-shadow: 0px 0.51px 2.42px #00000011, 0px 1.23px 5.81px #00000018, 0px 2.32px 10.94px #0000001d,
+    0px 4.15px 19.51px #00000023, 0px 7.75px 36.49px #0000002a, 0px 18.56px 87.35px #0000003b;
+  height: 90px;
+  position: relative;
+  top: 31px;
+}
+
+.index .frame-16 {
+  height: 30px;
+  left: 99px;
+  position: absolute;
+  top: 16px;
+  width: 30px;
+}
+
+.index .vuesax-linear-add {
+  height: 30px !important;
+  left: 202px !important;
+  position: absolute !important;
+  top: 15px !important;
+  width: 30px !important;
+}
+
+.index .frame-17 {
+  height: 26px;
+  left: 313px;
+  position: absolute;
+  top: 18px;
+  width: 26px;
+}
+
+.index .line {
+  height: 1px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 52px;
+}
+
+.index .widget-instance {
+  display: flex !important;
+  gap: 24px !important;
+  left: 44px !important;
+  opacity: 0.5 !important;
+  padding: 16px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 343px !important;
+}
+
+.index .widget-2 {
+  flex: 0 0 auto !important;
+  opacity: 0 !important;
+}
+
+.index .widget-3 {
+  opacity: 0 !important;
+}
+
+.index .widget-4 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.index .widget-5 {
+  background-color: var(--secondary-05) !important;
+  height: 48px !important;
+  width: 48px !important;
+}

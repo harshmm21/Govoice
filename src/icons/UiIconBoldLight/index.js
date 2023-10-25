@@ -1,0 +1,1 @@
+export { UiIconBoldLight } from "./UiIconBoldLight";

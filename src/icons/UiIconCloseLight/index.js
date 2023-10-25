@@ -1,0 +1,1 @@
+export { UiIconCloseLight } from "./UiIconCloseLight";

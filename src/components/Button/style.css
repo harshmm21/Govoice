@@ -1,0 +1,165 @@
+.button {
+  all: unset;
+  align-items: center;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.button .text-wrapper-5 {
+  margin-top: -2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .icon-placeholder-instance {
+  position: relative !important;
+}
+
+.button .class-13 {
+  border-color: #1a1d1f80 !important;
+}
+
+.button .class-14 {
+  border-color: var(--neutral-01) !important;
+}
+
+.button .design-component-instance-node {
+  border-color: #fcfcfc80 !important;
+}
+
+.button .text-wrapper-6 {
+  margin-top: -2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.small {
+  border-radius: 8px;
+  padding: 8px 16px;
+}
+
+.button.medium {
+  border-radius: 12px;
+  padding: 12px 20px;
+}
+
+.button.secondary {
+  border: 2px solid;
+}
+
+.button.primary.state-3-deactive {
+  background-color: #2a85ff80;
+}
+
+.button.primary.state-3-default {
+  background-color: var(--primary-01);
+}
+
+.button.secondary.state-3-deactive.theme-21-off {
+  background-color: #fcfcfc80;
+  border-color: #efefef80;
+}
+
+.button.secondary.state-3-default.theme-21-off {
+  background-color: var(--neutral-01);
+  border-color: var(--neutral-03);
+}
+
+.button.secondary.state-3-default.theme-21-on {
+  background-color: var(--neutral-07);
+  border-color: var(--neutral-06);
+}
+
+.button.secondary.theme-21-on.state-3-deactive {
+  background-color: #1a1d1f80;
+  border-color: #272b3080;
+}
+
+.button.small .text-wrapper-5 {
+  font-family: var(--button-2-font-family);
+  font-size: var(--button-2-font-size);
+  font-style: var(--button-2-font-style);
+  font-weight: var(--button-2-font-weight);
+  letter-spacing: var(--button-2-letter-spacing);
+  line-height: var(--button-2-line-height);
+}
+
+.button.medium .text-wrapper-5 {
+  font-family: var(--button-1-font-family);
+  font-size: var(--button-1-font-size);
+  font-style: var(--button-1-font-style);
+  font-weight: var(--button-1-font-weight);
+  letter-spacing: var(--button-1-letter-spacing);
+  line-height: var(--button-1-line-height);
+}
+
+.button.state-3-default.theme-21-on .text-wrapper-5 {
+  color: var(--neutral-01);
+}
+
+.button.primary.state-3-deactive .text-wrapper-5 {
+  color: #fcfcfcbf;
+}
+
+.button.primary.state-3-default .text-wrapper-5 {
+  color: var(--neutral-01);
+}
+
+.button.theme-21-on.state-3-deactive .text-wrapper-5 {
+  color: #fcfcfcbf;
+}
+
+.button.secondary.state-3-deactive.theme-21-off .text-wrapper-5 {
+  color: #1a1d1fbf;
+}
+
+.button.secondary.state-3-default.theme-21-off .text-wrapper-5 {
+  color: var(--neutral-07);
+}
+
+.button.small .text-wrapper-6 {
+  font-family: var(--button-2-font-family);
+  font-size: var(--button-2-font-size);
+  font-style: var(--button-2-font-style);
+  font-weight: var(--button-2-font-weight);
+  letter-spacing: var(--button-2-letter-spacing);
+  line-height: var(--button-2-line-height);
+}
+
+.button.medium .text-wrapper-6 {
+  font-family: var(--button-1-font-family);
+  font-size: var(--button-1-font-size);
+  font-style: var(--button-1-font-style);
+  font-weight: var(--button-1-font-weight);
+  letter-spacing: var(--button-1-letter-spacing);
+  line-height: var(--button-1-line-height);
+}
+
+.button.state-3-default.theme-21-on .text-wrapper-6 {
+  color: var(--neutral-01);
+}
+
+.button.primary.state-3-deactive .text-wrapper-6 {
+  color: #fcfcfcbf;
+}
+
+.button.primary.state-3-default .text-wrapper-6 {
+  color: var(--neutral-01);
+}
+
+.button.theme-21-on.state-3-deactive .text-wrapper-6 {
+  color: #fcfcfcbf;
+}
+
+.button.secondary.state-3-deactive.theme-21-off .text-wrapper-6 {
+  color: #1a1d1fbf;
+}
+
+.button.secondary.state-3-default.theme-21-off .text-wrapper-6 {
+  color: var(--neutral-07);
+}

@@ -1,0 +1,1 @@
+export { UiIconTwitterFilled } from "./UiIconTwitterFilled";

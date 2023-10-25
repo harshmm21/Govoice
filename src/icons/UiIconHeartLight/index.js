@@ -1,0 +1,1 @@
+export { UiIconHeartLight } from "./UiIconHeartLight";

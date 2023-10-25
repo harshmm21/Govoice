@@ -1,0 +1,1 @@
+export { UiIconArrowForwardLight } from "./UiIconArrowForwardLight";

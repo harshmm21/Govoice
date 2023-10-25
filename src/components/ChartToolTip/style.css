@@ -1,0 +1,86 @@
+.chart-tool-tip {
+  align-items: flex-start;
+  border: 1px solid;
+  border-radius: 8px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.chart-tool-tip .element-september {
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chart-tool-tip .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.chart-tool-tip .frame-4 {
+  background-color: var(--secondary-04);
+  border-radius: 4px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.chart-tool-tip .element-k {
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 12px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chart-tool-tip.theme-6-off {
+  background-color: var(--neutral-01);
+  border-color: var(--neutral-00);
+  box-shadow: 0px 2px 4px #0000001a, inset 0px 0px 1px #ffffff;
+}
+
+.chart-tool-tip.theme-6-on {
+  background-color: var(--neutral-06);
+  border-color: #ffffff1f;
+  box-shadow: 0px 2px 4px #0000001a, inset 0px 0px 1px #000000, 0px 4px 8px #0000001a;
+}
+
+.chart-tool-tip.theme-6-off .element-september {
+  color: var(--neutral-06);
+  font-family: var(--caption-2-medium-font-family);
+  font-size: var(--caption-2-medium-font-size);
+  font-style: var(--caption-2-medium-font-style);
+  font-weight: var(--caption-2-medium-font-weight);
+  letter-spacing: var(--caption-2-medium-letter-spacing);
+  line-height: var(--caption-2-medium-line-height);
+}
+
+.chart-tool-tip.theme-6-on .element-september {
+  color: var(--neutral-03);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: -0.12px;
+  line-height: 12px;
+}
+
+.chart-tool-tip.theme-6-off .element-k {
+  color: var(--neutral-07);
+  font-weight: 700;
+}
+
+.chart-tool-tip.theme-6-on .element-k {
+  color: var(--neutral-01);
+  font-weight: 600;
+}

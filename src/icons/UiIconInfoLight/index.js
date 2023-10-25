@@ -1,0 +1,1 @@
+export { UiIconInfoLight } from "./UiIconInfoLight";

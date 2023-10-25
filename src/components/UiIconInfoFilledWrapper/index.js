@@ -1,0 +1,1 @@
+export { UiIconInfoFilledWrapper } from "./UiIconInfoFilledWrapper";

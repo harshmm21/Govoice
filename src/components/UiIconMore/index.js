@@ -1,0 +1,1 @@
+export { UiIconMore } from "./UiIconMore";

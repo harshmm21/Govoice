@@ -1,0 +1,15 @@
+.icon-placeholder {
+  height: 24px;
+  width: 24px;
+}
+
+.icon-placeholder .ellipse {
+  border: 2px solid;
+  border-color: var(--neutral-07);
+  border-radius: 10px;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 20px;
+}

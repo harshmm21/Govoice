@@ -1,0 +1,1 @@
+export { UiIconImageLightWrapper } from "./UiIconImageLightWrapper";

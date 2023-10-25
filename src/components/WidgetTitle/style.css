@@ -1,0 +1,66 @@
+.widget-title {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 624px;
+}
+
+.widget-title .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.widget-title .tag {
+  background-color: var(--secondary-01);
+  border-radius: 4px;
+  height: 32px;
+  position: relative;
+  width: 16px;
+}
+
+.widget-title .overview {
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.widget-title .dropdown-instance {
+  flex: 0 0 auto !important;
+}
+
+.widget-title .UI-icon-more {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.widget-title .theme-off {
+  color: var(--neutral-07);
+}
+
+.widget-title .three-hundred-and-seventy-five {
+  font-family: var(--title-1-mobile-font-family);
+  font-size: var(--title-1-mobile-font-size);
+  font-style: var(--title-1-mobile-font-style);
+  font-weight: var(--title-1-mobile-font-weight);
+  letter-spacing: var(--title-1-mobile-letter-spacing);
+  line-height: var(--title-1-mobile-line-height);
+}
+
+.widget-title .theme-on {
+  color: var(--neutral-01);
+}
+
+.widget-title .fourteen-million-four-hundred-and-one-thousand-and-twenty-four {
+  font-family: var(--title-1-semibold-font-family);
+  font-size: var(--title-1-semibold-font-size);
+  font-style: var(--title-1-semibold-font-style);
+  font-weight: var(--title-1-semibold-font-weight);
+  letter-spacing: var(--title-1-semibold-letter-spacing);
+  line-height: var(--title-1-semibold-line-height);
+}

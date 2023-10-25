@@ -1,0 +1,83 @@
+.widget {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  overflow: hidden;
+  padding: 24px;
+  position: relative;
+}
+
+.widget .widget-title-2 {
+  background-color: var(--secondary-05) !important;
+}
+
+.widget .comments {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.widget .comment-instance {
+  height: 95px !important;
+  left: -23px !important;
+  top: -14px !important;
+  width: 94px !important;
+}
+
+.widget .instance-node-3 {
+  align-self: stretch !important;
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.widget .comment-2 {
+  position: relative !important;
+  width: 292px !important;
+}
+
+.widget .comment-3 {
+  background-color: var(--secondary-04) !important;
+  height: 48px !important;
+  width: 48px !important;
+}
+
+.widget .UI-icon-heart-light {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.widget .comment-4 {
+  height: 58px !important;
+  left: -7px !important;
+  top: -2px !important;
+  width: 58px !important;
+}
+
+.widget .class-15 {
+  height: 48px !important;
+  width: 48px !important;
+}
+
+.widget .comment-5 {
+  height: 57px !important;
+  left: 3px !important;
+  width: 43px !important;
+}
+
+.widget.theme-27-off {
+  background-color: var(--neutral-01);
+}
+
+.widget.theme-27-on {
+  background-color: var(--neutral-07);
+}

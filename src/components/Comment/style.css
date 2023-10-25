@@ -1,0 +1,200 @@
+.comment {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.comment .div-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.comment .avatar-info {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.comment .comment-info {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.comment .div-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.comment .user {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.comment .name-3 {
+  font-family: var(--base-1-bold-font-family);
+  font-size: var(--base-1-bold-font-size);
+  font-style: var(--base-1-bold-font-style);
+  font-weight: var(--base-1-bold-font-weight);
+  letter-spacing: var(--base-1-bold-letter-spacing);
+  line-height: var(--base-1-bold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.comment .text-wrapper-7 {
+  color: var(--neutralshades04-75);
+  font-family: var(--body-1-medium-font-family);
+  font-size: var(--body-1-medium-font-size);
+  font-style: var(--body-1-medium-font-style);
+  font-weight: var(--body-1-medium-font-weight);
+  letter-spacing: var(--body-1-medium-letter-spacing);
+  line-height: var(--body-1-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.comment .time-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 4px 0px 4px 4px;
+  position: relative;
+}
+
+.comment .time-2 {
+  color: var(--neutralshades04-75);
+  font-family: var(--caption-1-font-family);
+  font-size: var(--caption-1-font-size);
+  font-style: var(--caption-1-font-style);
+  font-weight: var(--caption-1-font-weight);
+  letter-spacing: var(--caption-1-letter-spacing);
+  line-height: var(--caption-1-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.comment .product-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.comment .product-title-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.comment .product-title-3 {
+  flex: 1;
+  font-family: var(--base-1-bold-font-family);
+  font-size: var(--base-1-bold-font-size);
+  font-style: var(--base-1-bold-font-style);
+  font-weight: var(--base-1-bold-font-weight);
+  letter-spacing: var(--base-1-bold-letter-spacing);
+  line-height: var(--base-1-bold-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.comment .container {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.comment .frame-7 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.comment .comment-goes-here {
+  align-self: stretch;
+  font-family: var(--body-1-medium-font-family);
+  font-size: var(--body-1-medium-font-size);
+  font-style: var(--body-1-medium-font-style);
+  font-weight: var(--body-1-medium-font-weight);
+  letter-spacing: var(--body-1-medium-letter-spacing);
+  line-height: var(--body-1-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.comment .instance-node-2 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.comment .theme-24-off {
+  color: var(--neutral-07);
+}
+
+.comment .theme-24-on {
+  color: var(--neutral-01);
+}
+
+.comment .theme-25-off {
+  color: var(--neutral-07);
+}
+
+.comment .theme-25-on {
+  color: var(--neutral-01);
+}
+
+.comment .theme-26-off {
+  color: var(--neutral-07);
+}
+
+.comment .theme-26-on {
+  color: var(--neutral-01);
+}
